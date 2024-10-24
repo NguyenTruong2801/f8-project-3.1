@@ -223,3 +223,33 @@ a {
     top: 242px;
     left: 530px;
 }
+
+/* Banner */
+.banner {
+    margin-top: 42px;
+}
+
+.banner__body {
+    padding: 76px 120px;
+    border-radius: 100px;
+    background-color: #e2eddf;
+}
+
+.banner-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner__agworld {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11px;
+}
+
+.banner__agworld-desc {
+    color: #163c35;
+    font-size: 2.6rem;
+    font-weight: 400;
+}
