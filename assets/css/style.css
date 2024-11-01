@@ -319,6 +319,7 @@ a {
 .service__btn-cta:hover {
     color: #fff;
     background-color: #143c3c;
+    cursor: pointer;
 }
 
 .service__heading {
@@ -341,6 +342,7 @@ a {
     border-radius: 20px;
     background: #fff;
     box-shadow: -6px 9px 64px -4px rgba(118, 118, 118, 0.25);
+    cursor: pointer;
 }
 
 .service-item__content {
