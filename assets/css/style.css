@@ -1017,3 +1017,20 @@ a {
         rgba(38, 82, 82, 0) 102.06%
     );
 }
+
+.social__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.2rem;
+    color: #fff;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    border: 1px solid #265252;
+    transition: 0.25s;
+}
+
+.social__icon:hover {
+    background-color: #a75325;
+}
